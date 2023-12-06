@@ -18,9 +18,39 @@ My Notes🖋️<a href="https://github.com/YadiraAllauca/MyNotesApp" target="bla
 <li><p align="left">
 Mis Mascotas🐶🐱<a href="https://github.com/YadiraAllauca/MisMascotasApp" target="blank">🔗</a>
 </p></li>
-<li><p align="left">
-Alquiler de Vehículos🚘<a href="https://github.com/YadiraAllauca/AlquilerDeVehiculosApp" target="blank">🔗</a>
+    <li><p align="left">
+SuperLista🛒<a href="https://github.com/YadiraAllauca/SuperListaApp" target="blank">🔗</a>
 </p></li>
+<li><p align="left">
+Alquiler de Vehículos App Web🚘<a href="https://github.com/YadiraAllauca/AlquilerDeVehiculosApp" target="blank">🔗</a>
+</p></li>
+<li><p align="left">
+Alquiler de Vehículos App Móvil🚘<a href="https://github.com/YadiraAllauca/AlquilerDeVehiculosAppMovil" target="blank">🔗</a>
+</p></li>
+  </ul>
+ <hr>
+<h3 align="left">Collaborations🤜🤛</h3>
+<ul>
+ <li><p align="left">
+Electronic Voting System🗳️<a href="https://github.com/AndresTGonzalez/elecciones-ueb-frontend" target="blank">🔗</a> with <b>ArmijosThais</b> y <b>AndresTGonzalez</b>
+</p>
+<img src="https://cdn.glitch.global/67cd472b-72c6-4b72-8f91-3c3387cbf446/197525be-0576-494d-b493-92b6b8b92f0f.image.png?v=1701818217543" height="200">
+ </li>
+   <li><p align="left">
+Electronic Billing💲<a href="https://github.com/YadiraAllauca/FacturaMovilGCS" target="blank">🔗</a> with <b>ArmijosThais</b>, <b>diana9519</b>, <b>Eldinosaur</b> y <b>Keybrish</b>
+</p>
+<img src="https://cdn.glitch.global/67cd472b-72c6-4b72-8f91-3c3387cbf446/bb47bc57-f106-4eee-be9f-9a78a920a152.image.png?v=1701818279786" height="300">
+ </li>
+  <li><p align="left">
+System for the sale of tickets to interprovincial bus users in Ecuador🚍<a href="https://github.com/diana9519/ProyectoDasBusesAdministrador/blob/main/frontwebadmin/README.md" target="blank">🔗</a> with <b>ArmijosThais</b>, <b>Keybrish</b> y <b>LennyMA</b>
+</p>
+<img src="https://cdn.glitch.global/1d3dd682-c1e7-4386-94b7-857b9d3c741b/d1704f62-01c5-433a-bb2e-7b42ad99f853.jpg?v=1688858510973" height="250">
+ </li>
+    <li><p align="left">
+System for recording IT activities💻<a href="https://github.com/YadiraAllauca/RegistroActividadesTIApp" target="blank">🔗</a> with <b>AlissonRecalde</b> y <b>DalembertBravo</b>
+</p>
+<img src="https://cdn.glitch.global/67cd472b-72c6-4b72-8f91-3c3387cbf446/74dd03d2-d488-48b4-b746-a969aad57ee6.image.png?v=1701820024624" height="300">
+ </li>
 </ul>
  <hr>
 <h3 align="left">Connect with me:</h3>
