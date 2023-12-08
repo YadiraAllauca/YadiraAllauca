@@ -51,6 +51,11 @@ System for recording IT activities💻<a href="https://github.com/YadiraAllauca/
 </p>
 <img src="https://cdn.glitch.global/67cd472b-72c6-4b72-8f91-3c3387cbf446/74dd03d2-d488-48b4-b746-a969aad57ee6.image.png?v=1701820024624" height="300">
  </li>
+   <li><p align="left">
+Facial Recognition😄<a href="https://github.com/ArmijosThais/ReconocimientoFacial" target="blank">🔗</a> with <b>ArmijosThais</b>
+</p>
+<img src="https://blog.facialix.com/wp-content/uploads/2021/11/3809174_9a5b_2.jpg" height="300">
+ </li>
 </ul>
  <hr>
 <h3 align="left">Connect with me:</h3>
