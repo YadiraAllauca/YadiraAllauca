@@ -42,12 +42,12 @@ Electronic Billing💲<a href="https://github.com/YadiraAllauca/FacturaMovilGCS"
 <img src="https://cdn.glitch.global/67cd472b-72c6-4b72-8f91-3c3387cbf446/bb47bc57-f106-4eee-be9f-9a78a920a152.image.png?v=1701818279786" height="300">
  </li>
   <li><p align="left">
-System for the sale of tickets to interprovincial bus users in Ecuador🚍<a href="https://github.com/diana9519/ProyectoDasBusesAdministrador/blob/main/frontwebadmin/README.md" target="blank">🔗</a> with <b>ArmijosThais</b>, <b>Keybrish</b> y <b>LennyMA</b>
+Interprovincial Bus Ticket Sales System for Users in Ecuador🚍<a href="https://github.com/diana9519/ProyectoDasBusesAdministrador/blob/main/frontwebadmin/README.md" target="blank">🔗</a> with <b>ArmijosThais</b>, <b>Keybrish</b> y <b>LennyMA</b>
 </p>
 <img src="https://cdn.glitch.global/1d3dd682-c1e7-4386-94b7-857b9d3c741b/d1704f62-01c5-433a-bb2e-7b42ad99f853.jpg?v=1688858510973" height="250">
  </li>
     <li><p align="left">
-System for recording IT activities💻<a href="https://github.com/YadiraAllauca/RegistroActividadesTIApp" target="blank">🔗</a> with <b>AlissonRecalde</b> y <b>DalembertBravo</b>
+IT Activity Recording System💻<a href="https://github.com/YadiraAllauca/RegistroActividadesTIApp" target="blank">🔗</a> with <b>AlissonRecalde</b> y <b>DalembertBravo</b>
 </p>
 <img src="https://cdn.glitch.global/67cd472b-72c6-4b72-8f91-3c3387cbf446/74dd03d2-d488-48b4-b746-a969aad57ee6.image.png?v=1701820024624" height="300">
  </li>
@@ -58,7 +58,7 @@ Facial Recognition😄<a href="https://github.com/ArmijosThais/ReconocimientoFac
  </li>
 </ul>
  <hr>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Get in touch with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/yadiraallauca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yadiraallauca" height="30" width="40" /></a>
 </p>
