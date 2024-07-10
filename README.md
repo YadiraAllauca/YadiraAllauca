@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.glitch.global/67cd472b-72c6-4b72-8f91-3c3387cbf446/sin%20fondo.png?v=1701191587353" alt="Software Engineer">
+  <img src="https://cdn.glitch.global/67cd472b-72c6-4b72-8f91-3c3387cbf446/Software_Engineer_-_copia-removebg-preview.png?v=1720570294816" alt="Software Engineer">
 </p>
 <h1 align="center">Hi there 👋, welcome!</h1>
 <h3 align="center">I'm a Frontend Developer 💻</h3>
