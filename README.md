@@ -11,6 +11,7 @@
 - 📫 How to reach me... **yadiraallaucac@gmail.com**
  <hr>
 <h3 align="left">My Projects🙋</h3>
+<p align="left">These are my public projects, which I did during my student life: </p>
 <ul>
 <li><p align="left">
 My Notes🖋️<a href="https://github.com/YadiraAllauca/MyNotesApp" target="blank">🔗</a>
@@ -34,7 +35,7 @@ Alquiler de Vehículos App Móvil🚘<a href="https://github.com/YadiraAllauca/A
  <li><p align="left">
 Electronic Voting System🗳️<a href="https://github.com/AndresTGonzalez/elecciones-ueb-frontend" target="blank">🔗</a> with <b>ArmijosThais</b> y <b>AndresTGonzalez</b>
 </p>
-   <p align="left">I worked on the frontend...</p>
+   <p align="left">I worked on the frontend with Angular. It was a satisfying team work as it is currently in production.</p>
 <img src="https://cdn.glitch.global/67cd472b-72c6-4b72-8f91-3c3387cbf446/197525be-0576-494d-b493-92b6b8b92f0f.image.png?v=1701818217543" height="200">
  </li>
    <li><p align="left">
@@ -46,20 +47,14 @@ Electronic Billing💲<a href="https://github.com/YadiraAllauca/FacturaMovilGCS"
   <li><p align="left">
 Interprovincial Bus Ticket Sales System for Users in Ecuador🚍<a href="https://github.com/diana9519/ProyectoDasBusesAdministrador/blob/main/frontwebadmin/README.md" target="blank">🔗</a> with <b>ArmijosThais</b>, <b>Keybrish</b>, <b>diana9519</b> y <b>Eldinosaur</b>
 </p>
-    <p align="left">I worked on the backend...</p>
+    <p align="left">I worked on the backend using PHP. We deployed the services on a hosting.</p>
 <img src="https://cdn.glitch.global/1d3dd682-c1e7-4386-94b7-857b9d3c741b/d1704f62-01c5-433a-bb2e-7b42ad99f853.jpg?v=1688858510973" height="250">
- </li>
-    <li><p align="left">
-IT Activity Recording System💻<a href="https://github.com/YadiraAllauca/RegistroActividadesTIApp" target="blank">🔗</a> with <b>AlissonRecalde</b> y <b>DalembertBravo</b>
-</p>
-      <p align="left">I worked on the backend...</p>
-<img src="https://cdn.glitch.global/67cd472b-72c6-4b72-8f91-3c3387cbf446/74dd03d2-d488-48b4-b746-a969aad57ee6.image.png?v=1701820024624" height="300">
  </li>
    <li><p align="left">
 Facial Recognition😄<a href="https://github.com/ArmijosThais/ReconocimientoFacial" target="blank">🔗</a> with <b>ArmijosThais</b>
 </p>
-     <p align="left">I worked on the entire project with my partner...</p>
-<img src="https://blog.facialix.com/wp-content/uploads/2021/11/3809174_9a5b_2.jpg" height="300">
+     <p align="left">I worked on the entire project with my partner. We created a real-time face recognition system using SVM in Python. This project is designed to recognize pre-trained faces in various positions and orientations using the computer camera.</p>
+<img src="https://cdn.glitch.global/67cd472b-72c6-4b72-8f91-3c3387cbf446/9dc24f9f-168d-4966-afd1-4b32baa7c382.image.png?v=1720574322602" height="300">
  </li>
 </ul>
  <hr>
