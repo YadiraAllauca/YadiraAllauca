@@ -11,10 +11,10 @@
 - 📫 How to reach me... **yadiraallaucac@gmail.com**
 
 - ☆  I'm currently working on... a web-based document management system.
-     This software is designed for Laboratorio Neo-Fármaco in Ecuador, which currently manages its processes manually.
-     The goal of this solution is to automate code generation, control access to documents, manage versioning, provide instant search capabilities,
+     <div>This software is designed for Laboratorio Neo-Fármaco in Ecuador, which currently manages its processes manually.</div>
+     The goal of this solution is to document code generation, control access to documents, manage versioning, provide instant search capabilities,
      generate reports, and offer other advantages.
-     I'm using Angular, Express.js, and PostgreSQL, following the Model-View-Controller (MVC) methodology and utilizing stored procedures to   protect against SQL injection.
+     <div>I'm using Angular, Express.js, and PostgreSQL, following the Model-View-Controller (MVC) methodology and utilizing stored procedures to   protect against SQL injection.</div>
 
   <img src="https://cdn.glitch.global/67cd472b-72c6-4b72-8f91-3c3387cbf446/378100ae-603e-48e4-a5f0-9862e0b2e92d.image.png?v=1720662250754" height="300">
  <hr>
@@ -95,4 +95,4 @@ Facial Recognition😄<a href="https://github.com/ArmijosThais/ReconocimientoFac
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
 </p>
-
+![YadiraAllauca's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YadiraAllauca&theme=tokyonight&hide_border=true)
