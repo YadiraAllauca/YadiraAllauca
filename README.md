@@ -97,6 +97,6 @@ Facial Recognition😄<a href="https://github.com/ArmijosThais/ReconocimientoFac
  <hr>
 <h3 align="left">GitHub Analytics:</h3>
 <p align="left"> 
-   <img src="https://github-readme-stats.vercel.app/api?username=YadiraAllauca&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub Stats">
+     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&preferLogin=false">    <img  alt="YadiraAllauca's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/YadiraAllauca?cardType=level&theme=tokyonight&preferLogin=false" />  </a>
 </p>
 
