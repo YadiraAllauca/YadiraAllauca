@@ -1,24 +1,17 @@
 <p align="center">
   <img src="https://cdn.glitch.global/67cd472b-72c6-4b72-8f91-3c3387cbf446/Software_Engineer_-_copia-removebg-preview.png?v=1720570294816" alt="Software Engineer">
 </p>
-<h1 align="center">Hi there 👋, welcome!</h1>
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm a Software Engineer 💻</h3>
 
-- 🌱 I'm currently learning... **more about frameworks**
+- 💼 I'm currently working at Angelcam, a company that builds custom security solutions.
 
-- 💬 Ask me abut... **JavaScript | Java | Express.js | Angular**
+- 💬 Ask me abut... **Python | Django | JavaScript | TypeScript | Express.js | Angular**
 
 - 📫 How to reach me... **yadiraallaucac@gmail.com**
 
-- ☆  I'm currently working on... a web-based document management system.
-     <div>This software is designed for Laboratorio Neo-Fármaco in Ecuador, which currently manages its processes manually.</div>
-     The goal of this solution is to document code generation, control access to documents, manage versioning, provide instant search capabilities,
-     generate reports, and offer other advantages.
-     <div>I'm using Angular, Express.js, and PostgreSQL, following the Model-View-Controller (MVC) methodology and utilizing stored procedures to   protect against SQL injection.</div>
-  <img src="https://cdn.glitch.global/67cd472b-72c6-4b72-8f91-3c3387cbf446/378100ae-603e-48e4-a5f0-9862e0b2e92d.image.png?v=1720662250754" height="300">
- <hr>
 <h3 align="left">My Projects🙋</h3>
-<p align="left">These are my public projects, which I did during my student life: </p>
+<p align="left">Here are some of my public projects, which I did during my student life: </p>
 <ul>
 <li><p align="left">
 My Notes🖋️<a href="https://github.com/YadiraAllauca/MyNotesApp" target="blank">🔗</a>
@@ -28,12 +21,6 @@ Mis Mascotas🐶🐱<a href="https://github.com/YadiraAllauca/MisMascotasApp" ta
 </p></li>
     <li><p align="left">
 SuperLista🛒<a href="https://github.com/YadiraAllauca/SuperListaApp" target="blank">🔗</a>
-</p></li>
-<li><p align="left">
-Alquiler de Vehículos App Web🚘<a href="https://github.com/YadiraAllauca/AlquilerDeVehiculosApp" target="blank">🔗</a>
-</p></li>
-<li><p align="left">
-Alquiler de Vehículos App Móvil🚘<a href="https://github.com/YadiraAllauca/AlquilerDeVehiculosAppMovil" target="blank">🔗</a>
 </p></li>
   </ul>
  <hr>
@@ -73,25 +60,23 @@ Facial Recognition😄<a href="https://github.com/ArmijosThais/ReconocimientoFac
  <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40" style="background-color: white; border-radius: 5px;" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> 
-  </a> 
+  </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a> 
-  <a href="[https://developer.android.com](https://developer.android.com/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="[https://www.php.net](https://www.php.net/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-   <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
 </p>
  <hr>
