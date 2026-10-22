@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="185" viewBox="0 0 1000 185" role="img" aria-labelledby="title description">
+  <title id="title">Yadira Allauca</title>
+  <desc id="description">Software Engineer and Full Stack Developer, based in Ecuador.</desc>
+  <rect width="1000" height="185" rx="12" fill="#f6f5f0"/>
+  <path d="M42 34h26" stroke="#8b5fbf" stroke-width="2"/>
+  <text x="42" y="102" font-family="Georgia, 'Times New Roman', serif" font-size="62" letter-spacing="-2" fill="#292830">Yadira Allauca<tspan fill="#8b5fbf">.</tspan></text>
+  <text x="45" y="142" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1.1" fill="#65616d">SOFTWARE ENGINEER · FULL STACK DEVELOPER</text>
+  <g transform="translate(910 88)" fill="none" stroke="#8b5fbf" stroke-width="2.5" stroke-linecap="round">
+    <path d="M-24 0h48M0-24v48M-17-17l34 34M-17 17l34-34"/>
+  </g>
+  <path d="M830 142h110" stroke="#d9d3df"/>
+</svg>

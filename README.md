@@ -1,87 +1,47 @@
-<p align="center">
-  <img src="https://cdn.glitch.global/67cd472b-72c6-4b72-8f91-3c3387cbf446/Software_Engineer_-_copia-removebg-preview.png?v=1720570294816" alt="Software Engineer">
-</p>
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm a Software Engineer 💻</h3>
+<picture>
+  <img src="assets/profile-header.svg" alt="Yadira Allauca — Software Engineer · Full Stack Developer" width="100%" />
+</picture>
 
-- 💼 I'm currently working at Angelcam, a company that builds custom security solutions.
+I’m a software engineer based in **Ambato, Ecuador**, working across frontend and backend development. I build web applications with a focus on useful functionality, clear interfaces and thoughtful implementation.
 
-- 💬 Ask me abut... **Python | Django | JavaScript | TypeScript | Express.js | Angular**
+Currently a **Full Stack Developer at Angelcam**. My experience also includes document management and HR systems, alongside tools I build for my own everyday needs.
 
-- 📫 How to reach me... **yadiraallaucac@gmail.com**
+[LinkedIn](https://www.linkedin.com/in/yadiraallauca) · [Email](mailto:yadiraallaucac@gmail.com)
 
-<h3 align="left">My Projects🙋</h3>
-<p align="left">Here are some of my public projects, which I did during my student life: </p>
-<ul>
-<li><p align="left">
-My Notes🖋️<a href="https://github.com/YadiraAllauca/MyNotesApp" target="blank">🔗</a>
-</p></li>
-<li><p align="left">
-Mis Mascotas🐶🐱<a href="https://github.com/YadiraAllauca/MisMascotasApp" target="blank">🔗</a>
-</p></li>
-    <li><p align="left">
-SuperLista🛒<a href="https://github.com/YadiraAllauca/SuperListaApp" target="blank">🔗</a>
-</p></li>
-  </ul>
- <hr>
-<h3 align="left">Collaborations🤜🤛</h3>
-<ul>
- <li><p align="left">
-Electronic Voting System🗳️<a href="https://github.com/AndresTGonzalez/elecciones-ueb-frontend" target="blank">🔗</a> with <b>ArmijosThais</b> y <b>AndresTGonzalez</b>
-</p>
-   <p align="left">I worked on the frontend with Angular. It was a satisfying team work as it is currently in production.</p>
-<img src="https://cdn.glitch.global/67cd472b-72c6-4b72-8f91-3c3387cbf446/197525be-0576-494d-b493-92b6b8b92f0f.image.png?v=1701818217543" height="200">
- </li>
-   <li><p align="left">
-Electronic Billing💲<a href="https://github.com/YadiraAllauca/FacturaMovilGCS" target="blank">🔗</a> with <b>ArmijosThais</b>, <b>LennyMA</b>  y <b>Keybrish</b>
-</p>
-     <p align="left">I worked on the backend...</p>
-<img src="https://cdn.glitch.global/67cd472b-72c6-4b72-8f91-3c3387cbf446/bb47bc57-f106-4eee-be9f-9a78a920a152.image.png?v=1701818279786" height="300">
- </li>
-  <li><p align="left">
-Interprovincial Bus Ticket Sales System for Users in Ecuador🚍<a href="https://github.com/diana9519/ProyectoDasBusesAdministrador/blob/main/frontwebadmin/README.md" target="blank">🔗</a> with <b>ArmijosThais</b>, <b>Keybrish</b>, <b>diana9519</b> y <b>Eldinosaur</b>
-</p>
-    <p align="left">I worked on the backend using PHP. We deployed the services on a hosting.</p>
-<img src="https://cdn.glitch.global/1d3dd682-c1e7-4386-94b7-857b9d3c741b/d1704f62-01c5-433a-bb2e-7b42ad99f853.jpg?v=1688858510973" height="250">
- </li>
-   <li><p align="left">
-Facial Recognition😄<a href="https://github.com/ArmijosThais/ReconocimientoFacial" target="blank">🔗</a> with <b>ArmijosThais</b>
-</p>
-     <p align="left">I worked on the entire project with my partner. We created a real-time face recognition system using SVM in Python. This project is designed to recognize pre-trained faces in various positions and orientations using the computer camera.</p>
-<img src="https://cdn.glitch.global/67cd472b-72c6-4b72-8f91-3c3387cbf446/9dc24f9f-168d-4966-afd1-4b32baa7c382.image.png?v=1720574322602" height="300">
- </li>
-</ul>
- <hr>
-<h3 align="left">Get in touch with me: </h3>
-<p align="left">
-<a href="https://linkedin.com/in/yadiraallauca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yadiraallauca" height="30" width="40" /></a>
-</p>
-</p>
- <hr>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40" style="background-color: white; border-radius: 5px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> 
-  </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a>
-</p>
- <hr>
-<h3 align="left">GitHub Analytics:</h3>
-<p align="left"> 
-     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&preferLogin=false">    <img  alt="YadiraAllauca's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/YadiraAllauca?cardType=level&theme=tokyonight&preferLogin=false" />  </a>
-</p>
+## Selected work
 
+| Project | Context | What I built |
+| --- | --- | --- |
+| **[Atril](https://github.com/YadiraAllauca/sheet-music-reader)** | Personal project | A local PDF sheet music library with offline copies, independent split readers and a priority reading queue. **TypeScript · PDF.js · IndexedDB · PWA** |
+| **[México Lindo](https://github.com/YadiraAllauca/mexico-lindo-web)** | Website for a business | A website for a mariachi group in Ambato, with an event enquiry flow, location selection and a prepared WhatsApp message. **Astro · TypeScript · Leaflet** |
+| **Angelcam · [Frontend](https://github.com/YadiraAllauca/angelcam) / [Backend](https://github.com/YadiraAllauca/angelcam_back)** | Technical assessment | A camera API integration with token access, live video and recorded segments. **React · TypeScript · Django · HLS** |
+
+The public Angelcam repositories are one job-application assessment, separate from my work on the company’s codebase. México Lindo prepares enquiries; it does not confirm bookings. Atril keeps imported documents on the device, with folder-linking support depending on the browser.
+
+## Experience
+
+- **Angelcam · Full Stack Developer** — September 2024–present. Web development across frontend and backend.
+- **Laboratorio Farmacéutico Neo · Software Engineer** — August 2024–February 2025. Extended a document management application using Angular, Express.js and PostgreSQL, from analysis through deployment.
+- **EEASA · Software Development Intern** — February–July 2024. Contributed to HR systems, primarily on the backend, using Java, Oracle and Angular.
+
+Earlier, my internship at Neo involved BI dashboards, followed by the document management application that became my degree project.
+
+## Technologies
+
+| Area | Tools |
+| --- | --- |
+| **Frontend** | TypeScript, JavaScript, Angular, React, Astro |
+| **Backend** | Python, Django, Express.js, REST APIs |
+| **Data & workflow** | PostgreSQL, Oracle, IndexedDB, Git |
+
+## Background
+
+**Software Engineering · Universidad Técnica de Ambato** — 2019–2024
+
+**1st place · Innovasoft competition, fifth edition**
+
+My earlier team projects include **[Safey](https://github.com/YadiraAllauca/ProyectoDASBuses)** ([PHP backend](https://github.com/YadiraAllauca/ServiciosProyectoDAS)) and **[Factura Móvil](https://github.com/YadiraAllauca/FacturaMovilGCS)**. Both are academic prototypes with collective authorship and documented limitations.
+
+---
+
+Have a project, an opportunity or a question? **[Let’s talk.](mailto:yadiraallaucac@gmail.com)**
